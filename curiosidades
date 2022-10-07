@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curiosidades Del Mexico</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="icon" href="imagens/icone.jpg">
+    <style>
+     body {
+background-image: url('imagens/logo3.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: white;
+     }
+     main {
+background-color: #00000054;
+     }
+        
+            </style>
+</head>
+<body>
+    <nav>
+        <div id="menu">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="curiosidades.html">Curiosidades</a></li>
+            <li><a href="turismo.html">Pontos turísticos</a></li>
+            <li><a href="Gastronomia.html">Gastronomia</a><li>
+                <li><a href="tradiciones Mexicanas.html">Tradiciones Mexicanas</a><li></li>
+            
+        </ul>
+        </div>
+    </nav>
+    <header>
+        
+        <div id="topo">
+            <h1>Curiosidades</h1>        
+        
+            <img src="imagens/brasil-bandeira.png" alt="" width="500px">
+        </div>       
+    </header>
+    <main>
+        <div id="conteudo-interno">            
+            <h2 class="titulo">10 fatos curiosos que você talvez não sabia sobre nós!</h2>
+      <p><h3> <br>#1 – O homem está presente no México desde 30 mil anos atrás e depois de milhares de anos de desenvolvimento cultural, surgiram no território mexicano as culturas mesoamericanas, aridoamericanas e oasisamericanas. </br>
+       <br> #2 – O México conta com uma população de 119 milhões de pessoas (2016). O país conta com aproximadamente 287 idiomas, é o país de língua espanhola mais povoado, assim como o sétimo país com a maior diversidade linguística do mundo. O estado reconhece o espanhol como língua oficial junto com 67 idiomas indígenas.   </br>
+       <br> #3 – A constituição vigente promulgada em 1917 estabelece que o nome oficial é Estados Unidos Mexicanos.   </br>
+       <br>#4 – O nome real do primeiro presidente do México é José Miguel Fernández Guadalupe Victoria. José Miguel Fernandez mudou seu sobrenome para Guadalupe Victoria em homenagem à Virgem de Guadalupe e a vitória na luta pela independência.</br>
+       <br>#5 – O México possui uma superfície de 1 964 375 km², sendo assim o decimo quarto país mais extenso do mundo e o terceiro maior da América Latina.</br>
+       <br>#6 – De acordo com a Organização Mundial de Turismo, o México é o principal destino turístico da América Latina e o décimo mais visitado do mundo. Tudo isso pelos 35 lugares culturais ou naturais que são considerados pela Unesco como Patrimônio da Humanidade, sendo o principal destino da América Latina e o sexto no mundo.</br>
+       <br>#7 – De acordo com o Instituto Nacional de História e Antropologia (INAH), no México estão registrados 37.266 sítios arqueológicos.</br>
+       <br>#8 – O Castelo de Chapultepec, localizado no Bosque de Chapultepec na Cidade do México, é o único castelo da realeza construído no continente americano.</br>
+       <br>#9 – O México é o maior consumidor per capita de Coca Cola no mundo e o país com a maior taxa de obesidade no mundo, de acordo com um relatório da ONU.</br>
+       <br> #10 – O México é o quarto país com a maior biodiversidade no mundo; podemos encontrar entre 10% a 12% de todas as espécies do mundo em território mexicano.</br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </h3>  </p> 
+
+    </main>
+    <footer>
+        <p> <a href="index.html" class="voltar">Voltar para a página inicial</a> </p>
+    </footer>     
+</body>
+</html>
