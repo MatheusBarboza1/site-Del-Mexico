@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt/br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mexico</title> <link rel="stylesheet" href="estilo.css">
+    <style>
+
+body {
+background-image: url('imagens/logo3.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+main {
+background-color: #00000054;
+
+}
+
+    </style>
+</head>
+    <body>
+        <main></main>
+        <nav>
+            <div id="menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="curiosidades.html">Curiosidades</a></li>
+                <li><a href="turismo.html">Pontos turísticos</a></li>
+                <li><a href="Gastronomia.html">Gastronomia</a><li>
+                    <li><a href="tradiciones Mexicanas.html">Tradiciones Mexicanas</a><li></li>
+                
+            </ul>
+            </div>
+        </nav>
+         <header>
+            <div id="topo">
+                <h1>Tradiciones Mexicanas</h1>
+                <img src="imagens/bandeira.png" alt="" width="160">
+            </div>
+         </header> 
+         <main>
+             <h2><p>Abaixo um video explicando melhor sobre as Tradiciones Mexicanas!</h2></p>
+             <div class="video">
+                 <br><br>
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff7GhId4OWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             <br><br>
+             </div>
+         </div>
+     <footer>
+    <p> <a href="index.html" class="voltar">Voltar para a página inicial</a> </p>
+ </footer>
+</main>
+</body>
+</html>
