@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curiosidades Del Mexico</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="icon" href="imagens/icone.jpg">
+    <style>
+     body {
+background-image: url('imagens/logo3.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: white;
+     }
+     main {
+background-color: #00000054;
+     }
+        
+            </style>
+</head>
+<body>
+    <nav>
+        <div id="menu">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="curiosidades.html">Curiosidades</a></li>
+            <li><a href="turismo.html">Pontos turísticos</a></li>
+            <li><a href="Gastronomia.html">Gastronomia</a><li>
+                <li><a href="tradiciones Mexicanas.html">Tradiciones Mexicanas</a><li></li>
+            
+        </ul>
+        </div>
+    </nav>
+    <header>
+        
+        <div id="topo">
+            <h1>Gastronomia</h1>        
+        
+            <img src="imagens/brasil-bandeira.png" alt="" width="500px">
+        </div>       
+    </header>
+    <main>
+        <div id="conteudo-interno">            
+            <h2 class="titulo">Gastronomia!</h2>
+      <p><h3> <br>Conhecida pelo taco, burrito, quesadilla e guacamole, a gastronomia mexicana vai muito além dessas iguarias. Na realidade, o país foi o primeiro a ter a gastronomia reconhecida como Patrimônio Imaterial da Humanidade pela Unesco. Este fato se deu em 2010, título conquistado por conta do respeito e honra aos mais de mil anos de tradição.
+
+       <br> A cozinha tradicional mexicana é um modelo abrangente, que inclui agricultura, ritos, práticas e costumes herdados de comunidades ancestrais, mas sem esquecer a inovação. Entre os principais ingredientes de sua culinária estão o milho, o feijão e a pimenta, por exemplo.</br>
+        
+        <br> destinos no México que todo mundo precisa visitar</br>
+        
+    <br> Isso significa que, ao visitar o país, uma dica de ouro é aproveitar para experimentar a cozinha regional de Yucatán e Oaxaca. A primeira vai na contramão daquilo que se acredita fazer parte de todo prato mexicano, uma vez que seus sabores são menos picantes. Entre os pratos mais conhecidos, destaque para cochinita pibil, que consiste em carne de porco temperada com laranja, cebola roxa e molho de achiote. Detalhe: tudo isso é cozido em um forno debaixo da terra.</br>
+        
+<br> Por outro lado, a gastronomia oaxaquenha, também bastante popular, conta com o mole, espécie de molho preparado com diversos ingredientes; tlayudas, uma grande tortilha acompanhada de elementos regionais; e gafanhotos temperados com sal, alho e outras especiarias.</br>
+        
+<br> Se interessou? Então confira a seguir uma série de outros pratos mexicanos que definitivamente vale a pena incluir no seu roteiro!</br>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </h3>  </p> 
+
+    </main>
+    <footer>
+        <p> <a href="index.html" class="voltar">Voltar para a página inicial</a> </p>
+    </footer>     
+</body>
+</html>
