@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curiosidades Del Mexico</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="icon" href="imagens/icone.jpg">
+    <style>
+     body {
+background-image: url('imagens/logo3.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: white;
+     }
+     main {
+background-color: #00000054;
+     }
+        
+            </style>
+</head>
+<   <body>
+    <nav>
+        <div id="menu">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="curiosidades.html">Curiosidades</a></li>
+            <li><a href="turismo.html">Pontos turísticos</a></li>
+            <li><a href="Gastronomia.html">Gastronomia</a><li>
+                <li><a href="tradiciones Mexicanas.html">Tradiciones Mexicanas</a><li></li>
+            
+        </ul>
+        </div>
+    </nav>
+     <header>
+        <div id="topo">
+            <h1>Turismo</h1>
+          
+        </div>
+    </header>
+         <main>
+            <div id="interno">
+                <p><h2>Lugares pra conhecer em Mexico</h2></p>
+                <br><br>
+                <div class="foto">
+                    <img src="imagens/palanque.jpg" width="400">
+                    <p class="legenda">Palenque</p>
+                </div>
+                <div class="descrição">
+                    <p class="texto">
+                        Uma das mais importantes ruínas da civilização Maia de todas as Américas. Localizada no estado mexicano de Chiapas, a poucos quilômetros de Santo Domingo de Palenque, a zona arqueológica é tombada pela Unesco. Um passeio imperdível para conhecer as construções desta civilização que habitou por ali há mais de 2 mil anos. As ruínas de Palenque são formadas por um conjunto de cerca de 500 edifícios.<br><br></p>
+                </div>
+                <div class="foto">
+                    <img src="imagens/San Cristóbal.jpg" width="400">
+                    <p class="legenda">San Cristóbal de las Casas</p>
+                </div>
+                <div class="descrição">
+                    <p class="texto">
+                        Mais uma cidade no sul do país atrai as atenções dos mexicanos. Situada num vale no estado de Chipasa, a bela cidade de San Cristóbal de las Casas encanta pela sua arquitetura colonial. O local também é buscado pelos amantes da natureza para passeios no Cañon Del Sumidero e nas cachoeiras de Água Azul.
+                        <br><br></p>
+                </div>   
+                <div class="foto">
+                    <img src="imagens/cancun.jpg" width="400">
+                    <p class="legenda">Cancún</p>
+                </div>  
+                <div class="descrição">
+                    <p class="texto">
+                        Destino carimbado pelos turistas do mundo todo, quando o assunto é praia, não poderia ficar de fora do desejo de férias dos mexicanos. Cancún conquista a todos por sua infraestrutura, comodidade e pelas praias de areias finas em perfeita harmonia com o mar azul-turquesa.<br><br></p>
+                </div>
+                <div class="foto">
+                    <img src="imagens/Acapulco.jpg" width="400">
+                    <p class="legenda">Acapulco</p>
+                </div>
+                <div class="descrição">
+                    <p class="texto">
+                        Acapulco viveu seu auge na década de 70 e 80, mas até hoje atrai muitos mexicanos. Quem não se lembra dos saudosos episódios dos seriados Chaves e Chapolin gravados na cidade? Localizada na costa do Pacífico, Acapulco se destaca pelas belas praias, falésias, lagoas, hotéis e gastronomia. A cidade praiana é também conhecida pelo belo pôr-do-sol.<br><br></p>
+                </div>
+                </div>
+            <footer>
+           <p> <a href="index.html" class="voltar">Voltar para a página inicial</a> </p>
+        </footer>
+    </main>
+</body>
+</html>
